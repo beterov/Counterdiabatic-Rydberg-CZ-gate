@@ -4,3 +4,4 @@ generated using RydOpt 0.2.0 library. The RydOpt.ipynb notebook demonstrates opt
 CounterdiaRobustness.ipynb is used to study the robustness of different gate schemes for variation of blockade strength, Rabi frequencies and gradient of Rabi frequency.
 CounterdiabaticTwoPhoton.ipynb contains calculations of fidelity of two-photon version of counterdiabatic gate and other gate schemes.
 CounterThreePhoton.ipynb is used for calculation of fidelities of gates using a three-photon excitation.
+All code is written in Python 3.13
